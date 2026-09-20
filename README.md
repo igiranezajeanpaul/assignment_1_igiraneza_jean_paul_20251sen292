@@ -1,4 +1,4 @@
-# PLSQL Assignment One Sunrise Supermarket
+# PLSQL Assignment One: Sunrise Supermarket
 
 ## Student Information
 
